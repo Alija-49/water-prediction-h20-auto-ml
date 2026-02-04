@@ -1,7 +1,7 @@
 streamlit
+h2o==3.44.0.3
 pandas
 numpy
-h2o
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
